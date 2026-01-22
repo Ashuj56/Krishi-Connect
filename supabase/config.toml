@@ -1,0 +1,37 @@
+project_id = "pimmztrboudsdyxdqiav"
+
+[functions.microfinance-eligibility]
+verify_jwt = false
+
+[functions.government-schemes]
+verify_jwt = false
+
+[functions.chat]
+verify_jwt = false
+
+[functions.analyze-crop]
+verify_jwt = false
+
+[functions.market-prices]
+verify_jwt = false
+
+[functions.farm-advisory]
+verify_jwt = false
+
+[functions.weather]
+verify_jwt = false
+
+[functions.get-soil-type]
+verify_jwt = false
+
+[functions.soil-analysis]
+verify_jwt = false
+
+[functions.sale-route-recommend]
+verify_jwt = false
+
+[functions.smart-alerts]
+verify_jwt = false
+
+[functions.daily-summary]
+verify_jwt = false
