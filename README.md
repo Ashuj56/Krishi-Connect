@@ -52,7 +52,7 @@ Follow these steps to run the project locally:
 
 1. Clone the repository and open the project folder:
 
-   - git clone https://github.com/Ashuj56/krishiconnect-SIH.git
+   - git clone https://github.com/Ashuj56/Krishi-Connect
    - cd krishiconnect-SIH
 
 2. Install dependencies:
